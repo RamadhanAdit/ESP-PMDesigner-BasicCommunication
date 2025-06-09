@@ -1,6 +1,6 @@
 Kode di atas merupakan bagian dari video tutorial yang saya buat mengenai penggunaan Trainer Demo Box IIoT. Tujuan utama dari kode ini adalah untuk menghubungkan Trainer Demo Box IIoT dengan ESP32 atau ESP8266, memungkinkan komunikasi yang efektif antara perangkat. Saya berharap kalian dapat mengembangkan kode ini lebih jauh sesuai dengan kebutuhan dan proyek yang sedang kalian kerjakan.
 Berikut beberapa video yang menggunakan kode ini sebagai referensi:
-1. Trainer Demo Box IIoT - "ESP32 to Trainer Box Communication Topology"
+1. Trainer Demo Box IIoT -    "ESP32 to Trainer Box Communication Topology"
    https://youtu.be/NeevKCHxQ7E?si=7vXkRIvf4K7sTO4g
 2. Trainer Demo Box IIoT - "PM Designer with Blynk IoT Cloud Basic Communication"
    https://youtu.be/3Ye9Wef7FhE?si=I4oOO7wRQPdc_PgB
