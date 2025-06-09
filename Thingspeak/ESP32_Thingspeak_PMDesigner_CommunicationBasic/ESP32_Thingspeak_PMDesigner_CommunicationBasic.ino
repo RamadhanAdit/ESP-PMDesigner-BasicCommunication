@@ -1,4 +1,8 @@
-#include <WiFi.h>                         // Library untuk koneksi WiFi (digunakan oleh ESP32)
+#ifdef ESP32
+#include <WiFi.h>             // Library untuk koneksi WiFi ESP32
+#elif defined(ESP8266)
+#include <ESP8266WiFi.h>      // Library untuk koneksi WiFi ESP8266
+#endif 
 #include <ThingSpeak.h>                   // Library untuk berkomunikasi dengan platform IoT ThingSpeak
 #include <ModbusIP_ESP8266.h>             // Library Modbus TCP/IP (digunakan meskipun ini untuk ESP8266, masih bisa untuk ESP32 jika kompatibel)
 
